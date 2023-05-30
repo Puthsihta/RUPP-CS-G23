@@ -1,0 +1,15 @@
+		Reveiws
+
+1. Polymorphims: ទម្រង់ច្រើន  Mean: Function ច្រើនមានឈ្មោះដូចគ្នាតែClass ផ្រេងគ្នា
+- Early Binding: អនុវត្តន៍ពេល Complie អត់អាចបង្កើត OBJ រួមទេ
+- Last Binding: អនុវត្តន៍ពេល Run ដែល Pointer ជាអ្នកកំណាត់ , Use Key word Virual (Viral Function), អាចបង្កើត OBJ រួម
+- Abstract Class: Class ដែលមាន Pure Virtual Function(នាំមុខដោយ Virtual ហើយ Function definiction អត់មាន) តួនាទី Overwrite Method (កាលណា Class កូនទទួល) អត់អនុវត្តន៍ Fuction មេទេ ( Base Class don't have obj)
+- Abstract Base Class: ការពារការមាន Data ដូចគ្នា
+កុំឲ្យមាន Data ត្រួតគ្នា
+
+2. Template has 2 part : 
+
+- Function Template : តំណាង គ្រួសារ Function ក្នុងការធ្វើការងាដូចគ្នា, have general parameter, general variable. 
+
+
+- Class Template : Class 1 ជំនួស Class ច្រើន មាន Data member ទូទៅ 

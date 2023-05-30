@@ -1,0 +1,32 @@
+//Example 1 
+
+void input(int i)
+{
+	cout << "Enter Integer = ";
+	cin >> i;
+}
+void input(char gender)
+{
+	cout << "Input Your Gender (M/F) = ";
+	cin >> gender;
+}
+void input(float score)
+{
+	cout << "Enter your Score = ";
+	cin >> score;
+}
+
+//Example 2
+
+void display(int i)
+{
+	cout << "Integer = " << i << endl;
+}
+void display(char gender)
+{
+	cout << "Gender = " << gender << endl;
+}
+void display(float score)
+{
+	cout << "Your Score = " << score << endl;
+}
