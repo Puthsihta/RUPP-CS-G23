@@ -1,0 +1,25 @@
+=====================================
+====	Name : Moeurn Puthsitha	=====
+====	Class : E6			=====
+=====================================
+
+=======Answer===========
+1. What is LAN Design? Why we need to do the LAN Design?
+=>  LAN Design គឺអនុញ្ញាតឱ្យអ្នកប្រើប្រាស់ចែករំលែក និងចូលប្រើប្រាស់ព័ត៌មាន និងកម្មវិធីនៅក្នុង network eviroments ដែលបានផ្តល់ឱ្យ។ យើងត្រូវការ LAN Design ព្រោះ 
+ការបញ្ជូនទិន្នន័យដោយសុវត្ថិភាពរវាង Devices និង Lan។
+
+2. What is converged network? Explain
+=> Converged Network សំដៅលើការផ្តល់សេវាទំនាក់ទំនងតាមទូរស័ព្ទ វីដេអូ និងទិន្នន័យក្នុងបណ្តាញតែមួយ។ 
+ការបញ្ចូលគ្នានៃបណ្តាញត្រូវបានជំរុញជាចម្បងដោយការអភិវឌ្ឍន៍បច្ចេកវិទ្យា និងតម្រូវការ។ User ជាច្រើនអាចទទួលបានសេវាកម្មកាន់តែទូលំទូលាយ 
+ហើយវាអនុញ្ញាតឱ្យអ្នកផ្តល់សេវាទទួលយកគំរូអាជីវកម្មថ្មី ផ្តល់សេវាកម្មប្រកបដោយភាពច្នៃប្រឌិត និងចូលទៅក្នុងទីផ្សារថ្មី។
+ឧទាហរណ៍​៖ ក្រុមហ៊ុន​សេវា​ទូរសព្ទ​​ធ្វើ​ចរាចរ​​នៅ​លើ​បណ្តាញ​ដែល​ upgraded មានដូចជា 
+Cable TV companies, Competitive local exchange carriers (CLECs), Traditional long distance suppliers, Internet backbone providers 
+ដូចជា AT&T, Sprint Communications, Cable & Wireless and WorldCom.
+
+3. What is Access, Distribution and Core Layer?
+=> Access Layere គឺជាកម្រិតដែលម៉ាស៊ីនកុំព្យូទ័រត្រូវបានភ្ជាប់ទៅបណ្តាញ network។ 
+Distribution Layer គឺដើរតួជាចំណុចប្រមូលផ្តុំសម្រាប់ Layer Device Access ទាំងអស់។
+Core Layer គឺភ្ជាប់ Device Layer ចែកចាយ ហើយប្តូរ និងបញ្ជូនចរាចរណ៍ដ៏ច្រើនប្រកបដោយភាពជឿជាក់ និងរហ័ស។
+
+4. Design the network of RUPP in Access, Distribution and Layer
+=> ខ្ងុំធ្វើនៅក្នុង packet Trascer.

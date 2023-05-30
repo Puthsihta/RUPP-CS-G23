@@ -1,0 +1,64 @@
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.exe
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.deps.json
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.json
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.dev.json
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\bin\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.csproj.AssemblyReference.cache
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfoInputs.cache
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfo.cs
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.csproj.CoreCompileInputs.cache
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W2\Practice\Person_App\Person_App\obj\Debug\net5.0\Person_App.genruntimeconfig.cache
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.exe
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.deps.json
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.json
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.dev.json
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.AssemblyReference.cache
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfoInputs.cache
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfo.cs
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.CoreCompileInputs.cache
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W3\Theory\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.genruntimeconfig.cache
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.exe
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.deps.json
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.json
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.dev.json
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.AssemblyReference.cache
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfoInputs.cache
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfo.cs
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.CoreCompileInputs.cache
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.dll
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\ref\Person_App.dll
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.pdb
+D:\Teaching2021-22\C#\W3\Practice\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.genruntimeconfig.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.exe
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.deps.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.runtimeconfig.dev.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\ref\Person_App.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\bin\Debug\net5.0\Person_App.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.AssemblyReference.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfoInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.AssemblyInfo.cs
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.csproj.CoreCompileInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\ref\Person_App.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\Person_App(HW)\Person_App\obj\Debug\net5.0\Person_App.genruntimeconfig.cache

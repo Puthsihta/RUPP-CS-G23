@@ -1,0 +1,10 @@
+	Name : Moeurn Puthsitha
+	Class : E6
+
+Answer HomeWork Lap 6
+
+1. What is A Gateway of Last Resort or Default gateway of Cisco Router?
+==>​​ គឺជាការ Route ដោយ Rounter នៅពេលដែលគ្នាការ បញ្ចូនទិន្នន័យផ្សេងៗទៀតដែលវា Route Ip package
+2. What is Router on a Stick?
+===> គឺជា Rounter ដែលមានការ Connect តែ Physical or Logical  network. វាភាគច្រើនត្រូវបានគេប្រើនៅក្នុង VLAN ដែល
+វាត្រូវភ្ជាប់នៅកាន់ Switch ផ្ទាល់តែខ្សែតែម្តង គេអាចហៅ Rounter on Stick ថាជា One Armed Router.

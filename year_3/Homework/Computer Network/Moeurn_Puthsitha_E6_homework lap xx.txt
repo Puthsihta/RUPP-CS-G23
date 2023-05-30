@@ -1,0 +1,11 @@
+===================
+Name : Moeurn Puthsitha 
+Class : E6
+===================
+Lab xx: Question on Dynamic Routing
+========= Answer ========
+1. Interior Gateway Protocols : ជាប្រភេទ routing protocol ដែលប្រើសប្រាស់ដើម្បី ប្តូរព៍ត័មានរបស់ routing table នៅចន្លោះ gateways ដែលមិនស្គាល់ប្រភពច្បស់លាស់។ វាមានពីរ type : 
+  - Distance Vector : ជាប្រភេទ Interior Gateway ដែលប្រើ Bellman-Ford algorithms ហើយ router មិន prossess ព៍ត័មានទាំងអស់របស់ topology ទេ។ វាប្តូរព៍ត័មានគ្នាទៅវិញទៅមករហូតដ៏តែស្គាល់គ្នា។
+  - Link-State : ជាប្រភេទ Interior Gateway ដែល prossess ព៍ត័មានដែលទាក់ទងនិង network complete topology។ វា calculate hop ដែលលឿនទៅដល់ destination network.
+2. Exterior Gateway Protocols : ជាប្រភេទ routing protocol ដូចនិង Interior Gateway Protocols ដែល។
+  - Path Vector : ជា network routing protocal ដែលមានទីតាំងនៃព៍ត័មានដែល update រហូត (dynamic) វា update looped network ហើយ return វិញនៅ node ដែលដូចគ្នាហើយស្រួលក្នុងការកែប្រែឬលុប។

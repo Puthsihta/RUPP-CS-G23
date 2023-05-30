@@ -1,0 +1,31 @@
+Class & Objects
+=================
+References:
+	-Books:
+		+Essential C# 6.0, Chapter 5: Classes, Page 217
+		+Learning Object-Oriented Programming in C# 5.0, Chapter 7: Classes & Objects, Pages 193(book), 212 (pdf)
+		+Programmer Guide to C# 5.0, Chapter 3: Classes, Pages 11
+	-Pages:
+		+https://www.tutorialsteacher.com/csharp/csharp-class
+		+https://www.w3schools.com/cs/cs_classes.php
+	-Youtubes:
+		+https://www.youtube.com/watch?v=t2SPg6IuT3k&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-&index=6
+		+https://www.youtube.com/watch?v=-ETZ0nOCU14&list=PLLAZ4kZ9dFpNIBTYHNDrhfE9C-imUXCmk&index=25
+
+Class & Objects
+================
+1- Class 
+	- Defining a set/entity of members (attributes and operations) of 
+	  the class itselft, the class's instances, or both.
+	- Static class -> contains all static members
+
+2-Members: Fields, Methods, Properties, Events
+	- Field -> Store data for class (static field), the class's object (instance field)
+	- Method -> Operate a task when being invoked.
+	- Property -> Setter/Getter/Setter & Getter method
+	- Event -> Signal raises to clients for providing operation to do any task.
+
+Example:
+	Calculating area of rectangle knowns its sides in OOP solution.
+
+

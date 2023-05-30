@@ -1,0 +1,18 @@
+Homework
+1-Installing VS Code or Visual Studio in your machine.
+2-Reading: 
+	First Application > https://www.tutorialsteacher.com/csharp/first-csharp-program
+	Variable> https://www.tutorialsteacher.com/csharp/csharp-variable
+	Data Types > https://www.tutorialsteacher.com/csharp/csharp-data-types
+
+3-Watching youtube:
+	https://www.youtube.com/watch?v=HB1aPYPPJ24&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-
+	https://www.youtube.com/watch?v=nbbIesdfCSI&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-&index=2
+	https://www.youtube.com/watch?v=_D-HCF3jZKk&list=PL0eyrZgxdwhxD9HhtpuZV22KxEJAZ55X-&index=3
+
+4-Creating C# console application:
+	Problem: Calculate area of a rectangle known width and length. 
+
+
+Homework
+Problem: Calculate areas of triangles known their 3 sides in OOP solution.

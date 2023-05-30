@@ -1,0 +1,32 @@
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+D:\Temp\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+D:\Temp\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache

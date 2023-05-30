@@ -1,0 +1,16 @@
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.exe
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.deps.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.runtimeconfig.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.runtimeconfig.dev.json
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\ref\E6_28_10_2021_Class.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\bin\Debug\net5.0\E6_28_10_2021_Class.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.csproj.AssemblyReference.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.AssemblyInfoInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.AssemblyInfo.cs
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.csproj.CoreCompileInputs.cache
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\ref\E6_28_10_2021_Class.dll
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.pdb
+D:\IT At RUPP\Year III\Homework\.NET Programming\E6_28_10_2021_Class\E6_28_10_2021_Class\obj\Debug\net5.0\E6_28_10_2021_Class.genruntimeconfig.cache

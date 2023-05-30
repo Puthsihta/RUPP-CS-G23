@@ -1,0 +1,16 @@
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.exe
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.deps.json
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.runtimeconfig.json
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.runtimeconfig.dev.json
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.dll
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\ref\Triangle_App.dll
+D:\Temp\Triangle_App\Triangle_App\bin\Debug\net5.0\Triangle_App.pdb
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.csproj.AssemblyReference.cache
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.AssemblyInfoInputs.cache
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.AssemblyInfo.cs
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.csproj.CoreCompileInputs.cache
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.dll
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\ref\Triangle_App.dll
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.pdb
+D:\Temp\Triangle_App\Triangle_App\obj\Debug\net5.0\Triangle_App.genruntimeconfig.cache
