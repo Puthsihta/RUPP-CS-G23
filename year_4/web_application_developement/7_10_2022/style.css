@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font: 16px 'Khmer Os Siemreap';
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-left: 48px;
+  margin: 16px 0;
+  font-family: 'Khmer Os Moul Light';
+}
+ul ol form p {
+  padding-left: 80px;
+}
+.hmenu {
+  list-style: none;
+  background-color: #000;
+  padding: 8px;
+}
+.hmenu li {
+  display: inline-block;
+  width: 14%;
+}
+.hmenu a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  padding: 12px 0 8px;
+  border-radius: 6px;
+}
+.hmenu a:hover {
+  background-color: gray;
+}
+.album {
+  list-style: none;
+  width: 600px;
+  margin: 0px auto;
+}
+.album img {
+  width: 600px;
+  height: 360px;
+  border-radius: 20px;
+}
+#tbl {
+  width: 450px;
+  margin: 16px 0 auto;
+  border-collapse: collapse;
+}
+#tbl th,
+#tbl td {
+  padding: 8px 16px;
+}
+#tbl th:nth-child(1) {
+  border-top-left-radius: 8px;
+}
+#tbl th:nth-child(3) {
+  border-top-right-radius: 8px;
+}
+#tbl tr:nth-child(1) {
+  font-family: 'Khmer Os Moul Light';
+  background-color: #000;
+  color: #fff;
+}
+#tbl tr:nth-child(2n) {
+  background-color: lightgray;
+}
+#frm {
+  width: 418px;
+  margin: 16px auto;
+  border: 1 solid gray;
+  border-radius: 8px;
+  padding: 0 24px 24px 32px;
+}
+#noted {
+  background-color: burlywood;
+  margin: 18px auto;
+  padding: 20px;
+  width: 50%;
+  border-radius: 6px;
+}
+#frm h2 {
+  margin: 0 0 16px;
+  padding: 12px 0 4px;
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
+#frm label {
+  display: inline-block;
+  width: 131px;
+}
+#chk label {
+  display: inline;
+}
+#ibutton {
+  width: 31%;
+  margin: 8px 5px 0 0;
+}

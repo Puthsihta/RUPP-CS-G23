@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List</title>
+    <a href="../test/Caculator.html" id="mylink">click me</a>
+
+    <script type="text/javascript">
+      var myLink = document.getElementById('mylink')
+
+      myLink.onclick = function () {
+        var script = document.createElement('script')
+        script.type = 'text/javascript'
+        script.src = 'Public/Scripts/filename.js.'
+        document.getElementsByTagName('head')[0].appendChild(script)
+        return false
+      }
+    </script>
+  </head>
+  <body>
+    <h1>បញ្ជី​ LIST</h1>
+    <p>
+      កត់ត្រាអ្វីៗមានរបៀប មានចំណួន។
+    </p>
+    <h2>បញ្ជីមានរបៀប</h2>
+    <ul style="background-color: powderblue;">
+      <!-- Unorder List លំដាប់មិនសំខាន់-->
+      <li>gif</li>
+      <!-- List Item -->
+      <li>png</li>
+      <li>jpg</li>
+    </ul>
+    <h2>បញ្ជីមានចំណួន</h2>
+    <ol>
+      <!-- Order Lsit លំដាប់សំខាន់-->
+      <li>gif</li>
+      <li>png</li>
+      <li>jpg</li>
+    </ol>
+  </body>
+</html>

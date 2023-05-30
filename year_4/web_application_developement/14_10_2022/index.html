@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <ol>
+      <li>
+        <p>
+          getElementById ជា method សម្រាប់ជ្រើរើសយកធាតុដែលស្គាល់អោយខ្ចី។
+        </p>
+      </li>
+      <li>
+        <p>
+          text Content ជា property សម្រាប់ដាក់ខ្លឹមសារថ្មីឲ្យធាតុ
+          ឬទាញយកខ្លឹមសារពីធាតុ។
+        </p>
+      </li>
+      <li>
+        <p>
+          new Date() បង្កើត date obj តំណាងឲ្យកាលបរិច្ចេទ និងពេលវេលាបច្ចុបន្ប។
+        </p>
+      </li>
+      <li>
+        <p>
+          to String ជា​ method បម្លែងកាលបរិច្ចេទទៅជាឃ្លា
+        </p>
+      </li>
+      <li>
+        <p>
+          let ជាពាក្យកន្លឺះសម្រាប់បង្កើតអថេរដែលបានបញ្ចាក់ឈ្មោះ
+        </p>
+      </li>
+      <li>
+        <p>
+          let ជាពាក្យកន្លឺះសម្រាប់បង្កើតអថេរដែលបានបញ្ចាក់ឈ្មោះ
+        </p>
+      </li>
+    </ol>
+    <p>Date :</p>
+    <span id="date"></span>
+    <br />
+    <span id="time">Time :</span>
+    <br />
+    <br />
+    <h2>test</h2>
+    <br />
+    <span id="test"></span>
+  </body>
+  <script type="text/javascript">
+    // let spanDate = document.getElementByI('date')
+    // let today = new Date().toDateString()
+    // spanDate.textContent = today
+    document.getElementById('date').textContent = new Date().toISOString()
+    function currentTime() {
+      document.getElementById('time').textContent = new Date().toString()
+    }
+    window.window.setInterval(currentTime, 60)
+    document.getElementById('test').textContent = new Date()
+  </script>
+</html>

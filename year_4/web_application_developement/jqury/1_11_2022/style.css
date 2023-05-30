@@ -1,0 +1,10 @@
+ul li {
+  list-style: none;
+}
+ul li:before {
+  content: '•';
+  color: #e60000;
+  /* position: absolute; */
+  right: 10em;
+  padding-right: 10px;
+}

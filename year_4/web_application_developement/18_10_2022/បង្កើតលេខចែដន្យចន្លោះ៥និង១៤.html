@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    * {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 32px;
+      /* margin: 20px; */
+    }
+    p {
+      color: #333;
+    }
+    #number {
+      display: block;
+      background-color: aquamarine;
+      text-align: center;
+      padding: 48px 32px;
+      width: 64px;
+      height: 32px;
+      border: 1px dotted gray;
+      border-radius: 50%;
+      margin: 32px auto;
+    }
+  </style>
+  <body>
+    <p id="number"></p>
+  </body>
+  <script>
+    window.setInterval(() => {
+      const num = Math.floor(Math.random() * (14 - 5 + 1)) + 5
+      document.getElementById('number').textContent = num
+    }, 500)
+  </script>
+</html>

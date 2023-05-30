@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <style>
+      body {
+        background: #ccc;
+        display: block;
+        margin: 10;
+        align-items: center;
+        justify-content: center;
+        align-self: center;
+      }
+      label {
+        color: #aaa;
+        font-family: 'Khmer OS Battambang';
+      }
+      input {
+        border: 1px solid;
+        height: max-content;
+        padding: 5px;
+        margin-left: 50px;
+        font-family: 'Khmer OS Battambang';
+        border-radius: 10px;
+      }
+      option {
+        cursor: 1px;
+      }
+      button {
+        border-radius: 10px;
+        margin: 40px;
+        padding: 20px;
+        box-shadow: 20px;
+      }
+      a {
+        margin: 10px;
+        margin-bottom: 0px;
+        padding: 10px;
+        background-color: #244;
+        border-radius: 10px;
+        color: #fff;
+      }
+      #header {
+        margin: 100px;
+        margin-bottom: 50px;
+      }
+      #content {
+        background-color: #353;
+      }
+      .home {
+        background-color: #932;
+      }
+      .form {
+        background-color: #0948;
+        padding: 20px;
+        border-radius: 20px;
+        margin: 20px;
+        margin-top: 0px;
+        justify-content: center;
+        align-items: center;
+        display: block;
+      }
+      ul li {
+        display: inline-block;
+        text-decoration: none;
+        padding: 40px 50px;
+      }
+      h1::first-letter {
+        padding: 10px;
+        border-radius: 100px;
+        background-color: yellow;
+        color: gray;
+      }
+    </style>
+  </head>
+  <body id="content" class="home">
+    <h1>សួរស្តី</h1>
+    <li id="header">
+      <a href="goggle.com">Home</a>
+      <a href="">About</a>
+      <a href="">Contact</a>
+    </li>
+    <ul>
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact</li>
+    </ul>
+    <form action="" class="form">
+      <label for="fname">ឈ្មោះអ្នកប្រើប្រាស់:</label>
+      <input
+        type="text"
+        id="fname"
+        name="fname"
+        placeholder="បំពេញឈ្មោះរបស់អ្នក"
+      />
+      <br />
+      <br />
+      <label for="lname">ប្រអប់ពាក្យសម្ងាត់:</label>
+      <input
+        type="text"
+        id="lname"
+        name="lname"
+        placeholder="បំពេញលេខកូដរបស់អ្នក"
+      />
+      <br />
+      <br />
+    </form>
+    <label for="lname" class="first_letters">ប្រអប់ពាក្យសម្ងាត់:</label>
+    <select name="cars" id="cars">
+      <option value="volvo">Volvo</option>
+      <option value="saab">Saab</option>
+      <option value="mercedes">Mercedes</option>
+      <option value="audi">Audi</option>
+    </select>
+    <br />
+    <br />
+    <input type="checkbox" name="vehicle1" value="Bike" />
+    <label for="vehicle1">I have a bike</label>
+    <input type="radio" name="vehicle2" value="Car" />
+    <label for="vehicle2">I have a car</label>
+    <input type="checkbox" name="vehicle3" value="Boat" checked />
+    <label for="vehicle3">I have a boat</label>
+    <br />
+    <input type="radio" name="vehicle1" value="Bike" />
+    <label for="vehicle1">I have a bike</label>
+    <input type="radio" name="vehicle2" value="Car" />
+    <label for="vehicle2">I have a car</label>
+    <input type="radio" name="vehicle3" value="Boat" checked />
+    <label for="vehicle3">I have a boat</label>
+    <br />
+    <br />
+    <button type="button" onclick="">Click Me!</button>
+    <button type="reset">Click Me!</button>
+    <button type="submit" onclick="hi">Submit</button>
+  </body>
+</html>

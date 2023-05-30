@@ -1,0 +1,39 @@
+body {
+  font-family: 'Khmer Os Siemreap';
+}
+ul li {
+  list-style-type: none;
+}
+.layout {
+  width: 502px;
+  height: 400px;
+  margin: 16px auto;
+  background-color: aqua;
+}
+.cover {
+  width: 500px;
+  height: 300px;
+  margin: 0;
+}
+.album img {
+  width: 100px;
+  height: 75px;
+}
+.album {
+  padding-left: 0;
+}
+.album li {
+  display: inline-block;
+}
+.album li:nth-child(n + 2) {
+  margin-left: -5px;
+}
+.album li:nth-child(1) {
+  border-left: 3px solid rebeccapurple;
+}
+#caption {
+  padding-left: 0;
+  text-align: center;
+  color: aquamarine;
+  /* margin-top: -30px */
+}

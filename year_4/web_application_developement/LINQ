@@ -1,0 +1,11 @@
+LINQ (Language Integrated Query) គឺជាបំណ្តុំ techonology ដែលអាចស្មើរ iformation (CRUD = cread , read, update, delete) ពី DB 
+ដោយប្រើប្រាស់ MS Application Language ដូចជា C#, .Net.
+Link Q ក៏អាចប្រើប្រាស់ជាមួយហ្នឹង obj or HTML doc.
+
+SQL vs SQL Server
+
+- SQl(structure query Language) ជា operation ធ្វើទៅលើ DB.
+- SQL Server : name of popular DBMS.
+- DBMS (Database Management System) : application help creat and manage DB.
+
+1. this above code using LINQ for select info from DB ទៅតាមទិន្នន័យដែល user ពោលគឺ we can search the movie by some charater that title movei has.
